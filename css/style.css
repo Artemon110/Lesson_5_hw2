@@ -1,0 +1,201 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+
+@font-face {
+   font-family: "Inter"; 
+ src: url("../fonts/Inter-Bold.woff2") format("woff2"), url("../fonts/Inter-Bold.woff") format("woff");
+ font-display: swap;
+ font-weight: 700;
+ font-style: normal;
+ }
+ 
+ @font-face {
+   font-family: "Inter"; 
+ src: url("../fonts/Inter-Medium.woff2") format("woff2"), url("../fonts/Inter-Medium.woff") format("woff");
+ font-display: swap;
+ font-weight: 500;
+ font-style: normal;
+ }
+
+ @font-face {
+   font-family: "Inter"; 
+ src: url("../fonts/Inter-Regular.woff2") format("woff2"), url("../fonts/Inter-Regular.woff") format("woff");
+ font-display: swap;
+ font-weight: 400;
+ font-style: normal;
+ }
+
+ @font-face {
+   font-family: "Inter"; 
+ src: url("../fonts/Inter-SemiBold.woff2") format("woff2"), url("../fonts/Inter-SemiBold.woff") format("woff");
+ font-display: swap;
+ font-weight: 600;
+ font-style: normal;
+ }
+
+ body {
+   font-family: "Inter";
+ }
+
+.red {
+   color: red;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(255, 0, 0, 0.342);
+   padding: 40px;
+}
+
+.orange {
+   color: orange;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(255, 166, 0, 0.438);
+   padding: 20px 30px 40px 25px;
+}
+
+.yellow {
+   color: rgb(192, 192, 0);
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(255, 255, 0, 0.322);
+   padding: 0px 150px 100px 80px;
+}
+
+.green {
+   color: green;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(0, 128, 0, 0.452);
+   padding: 130px 200px 100px 300px;
+}
+
+.blue {
+   color: blue;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(0, 0, 255, 0.377);
+   padding-top: 150px;
+}
+
+.people {
+   color: purple;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(128, 0, 128, 0.425);
+   padding-right: 300px;
+}
+
+.red2 {
+   color: crimson;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(220, 20, 60, 0.349);
+   padding-bottom: 120px;
+}
+
+.orange2 {
+   color: orangered;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(255, 68, 0, 0.349);
+   padding-left: 450px;
+}
+
+.yellow2 {
+   color: gold;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(255, 217, 0, 0.349);
+   margin: 30px;
+}
+
+.green2 {
+   color: forestgreen;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(34, 139, 34, 0.377);
+   margin: 30px 40px 50px 0px;
+}
+
+.blue2 {
+   color: mediumblue;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(0, 0, 205, 0.342);
+   margin: 0px 60px 70px 100px;
+}
+
+.people2 {
+   color: indigo;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(76, 0, 130, 0.37);
+   margin: 10px 110px 150px 100px;
+}
+
+.red3 {
+   color: darkred;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(139, 0, 0, 0.295);
+   margin-top: 80px;
+}
+
+.orange3 {
+   color: darkorange;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(255, 140, 0, 0.411);
+   margin-right: 65px;
+}
+
+.yellow3 {
+   color: rgb(214, 175, 74);
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(184, 135, 11, 0.336);
+   margin-bottom: 130px;
+}
+
+.green3 {
+   color: darkgreen;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(0, 100, 0, 0.479);
+   margin-left: 200px;
+}
+
+.blue3 {
+   color: darkblue;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(0, 0, 139, 0.329);
+   width: 200px;
+}
+
+.people3 {
+   color: darkmagenta;
+   font-family: "Rubik Moonrocks";
+   background-color: rgba(139, 0, 139, 0.377);
+   margin-left: 250px;
+}
+
+h1 {
+   color: cyan;
+   font-family: "Rubik Moonrocks";
+   text-align: center;
+   font-size: 50px;
+   background-color: cornflowerblue;
+}
+
+h2 {
+   color: deeppink;
+   font-family: "Rubik Moonrocks";
+   background-color: dodgerblue;
+   text-align: center;
+   font-size: 40px;
+}
+
+ol {
+   color: greenyellow;
+   background-color: aqua;
+   font-family: "Rubik Moonrocks";
+   padding: 15px;
+}
+
+#title {
+   color: dodgerblue;
+   font-family: "Rubik Moonrocks";
+   font-size: 20px;
+   background-color: rgba(30, 143, 255, 0.795);
+}
+
+* {
+   color: hotpink;
+   font-family: "Rubik Moonrocks";
+   margin: 5px;
+   background-color: black;
+}
